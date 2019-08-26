@@ -46,3 +46,7 @@ git push origin master
 
 git log
 
+git revert 310c601
+
+git push origin master
+
