@@ -18,3 +18,31 @@ git commit . -m "first upload"
 
 git push origin master
 
+code .
+
+(added html input/modded html file) then saved and closed
+
+git status
+
+git add .
+
+git commit . -m "update html"
+
+git push origin master
+
+code .
+
+<added css input/modded css file) then saved and closed
+
+git status
+
+git add .
+
+git status
+
+git commit . -m "update css"
+
+git push origin master
+
+git log
+
