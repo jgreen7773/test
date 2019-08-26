@@ -1,0 +1,20 @@
+ls
+
+cd Desktop/
+
+git clone "https://github.com/jgreen7773/test.git"
+
+cd test/
+
+touch index.html styles.css commands.txt
+
+git status
+
+git add .
+
+git status
+
+git commit . -m "first upload"
+
+git push origin master
+
